@@ -1,6 +1,6 @@
 {
 	"name": "all-debrid-api",
-	"version": "1.3.3",
+	"version": "1.4.0",
 	"description": "Node AllDebrid API wrapper",
 	"main": "index.js",
 	"directories": {
@@ -19,8 +19,5 @@
 	"bugs": {
 		"url": "https://github.com/TheBeastLT/node-all-debrid"
 	},
-	"homepage": "https://github.com/TheBeastLT/node-all-debrid#readme",
-	"dependencies": {
-		"axios": "^1.13.2"
-	}
+	"homepage": "https://github.com/TheBeastLT/node-all-debrid#readme"
 }
